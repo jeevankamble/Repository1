@@ -4,6 +4,7 @@ import pickle
 import json
 import config
 
+
 class predict_result():
 
     def __init__(self, user_data):
